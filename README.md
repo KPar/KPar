@@ -3,7 +3,7 @@
 
 In 2018, I was selected for a competitive full stack JavaScript training program, CUNY Tech Prep, as one of 122 students out of 400+ applicants. Within this program, I led a team in launching a web app. 
 
-Next, I landed an internship as a Software Engineer at Ancestry where I got hands on experience working building engaging and beneficial products. 
+Next, I landed an internship as a Mobile Software Engineer at Ancestry where I got hands on experience working building engaging and beneficial products. 
 
 🎓 I'm a second-generation Dominican-American and have now become the first university graduate in my family with a Bachelor's in Computer Science.
 
