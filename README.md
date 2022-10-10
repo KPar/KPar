@@ -1,5 +1,5 @@
 # 👋🏽 Kenny Paredes
-**`Full Stack Engineer`**
+**`Full Stack Engineer | UX Designer | Product`**
 
 In 2018, I was selected for a competitive full stack JavaScript training program, CUNY Tech Prep, as one of 122 students out of 400+ applicants. Within this program, I led a team in launching a web app. 
 
