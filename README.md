@@ -1,6 +1,11 @@
 # 👋🏽 Kenny Paredes
 **`Full Stack Engineer | UX Designer | Product`**
 
+I'm a Full Stack Engineer with a portfolio of projects all built using a variety of technologies and best practices to offer the best value to customers.
+
+
+## My Story
+
 In 2018, I was selected for a competitive full stack JavaScript training program, CUNY Tech Prep, as one of 122 students out of 400+ applicants. Within this program, I led a team in launching a web app. 
 
 Next, I landed an internship as a Mobile Software Engineer at Ancestry where I got hands on experience working building engaging and beneficial products. 
