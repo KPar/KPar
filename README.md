@@ -1,5 +1,5 @@
 # 👋🏽 Kenny Paredes
-**`Full Stack Engineer | UX Designer | Product`**
+**`Full Stack Engineer | Data Analyst | Product`**
 
 I'm a Full Stack Engineer with a portfolio of projects all built using a variety of technologies and best practices to offer the best value to customers.
 
